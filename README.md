@@ -35,4 +35,13 @@ could bring hope for more sustainable food production up until now. The FAO publ
 ##### Extra things to look into
 [The 2030 Agenda for Sustainable Development](https://sdgs.un.org/2030agenda)
 
-##### Source
+##### Gameplan
+1. Quantify world's food scarcity --- show need for more food. 
+- Data: World hunger index?
+2. How unsustainable food production currently is
+- Data: emissions from meat production, emissions from agriculture
+3. How can insects help?
+- Number of edible species
+- Nutrition information
+- History of insect diets
+4. Bonus: Inset recipes database
